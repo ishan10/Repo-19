@@ -1,0 +1,14 @@
+{
+  "generator-kraken": {
+    "taskModule": "grunt",
+    "lintModule": "eslint",
+    "description": "An innovative way to teach financial literacy to teens",
+    "author": "PayPal Hackathon Team",
+    "templateModule": "makara",
+    "i18n": "i18n",
+    "componentPackager": "bower",
+    "cssModule": "less",
+    "jsModule": "requirejs",
+    "useJson": null
+  }
+}
